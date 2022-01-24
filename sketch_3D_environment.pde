@@ -27,7 +27,7 @@ void setup() {
   textureMode(NORMAL);
   wkey = akey = skey = dkey = false;
   eyeX = width/2;
-  eyeY = 85*height/100;
+  eyeY = 82*height/100;
   eyeZ = 0;
   focusX = width/2;
   focusY = height/2;
